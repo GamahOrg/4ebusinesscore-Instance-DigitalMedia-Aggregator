@@ -1,0 +1,30 @@
+﻿global using _4EPlatform.Application.Helpers;
+global using AdminPanel.UserManagement.Protos;
+global using Aggregator.GrpClientsConfig;
+global using Aggregator.Helpers;
+global using DigitalMedia.Aggregator.Extensions;
+global using DigitalMedia.Aggregator.Interface;
+global using DigitalMedia.Aggregator.Middleware;
+global using DigitalMedia.Aggregator.ResponseDto;
+global using DigitalMedia.Aggregator.Services;
+global using DTO;
+global using Google.Protobuf.WellKnownTypes;
+global using Grpc.Core;
+global using IdentityModel.Client;
+global using System.Security.Claims;
+global using System.Text.Json;
+//global using DigitalMedia.Aggregator.ClientServices;
+global using DigitalMedia.Aggregator.Controller;
+global using Microsoft.AspNetCore.Mvc;
+global using AuthorityDefination.Application.Protos;
+global using CommitteesManagement.Aggregator.Protos;
+global using ControlPanel.ORGHierararchy.Protos;
+global using DigitalMedia.Aggregator.Dtos.BoardMember;
+global using DigitalMedia.Aggregator.Resources;
+global using DigitalMedia.Aggregator.Dtos.GetOrgDefinationDtoById;
+global using DigitalMedia.Aggregator.Dtos.OrgDefinationDto;
+global using DigitalMedia.API.Protos;
+global using Newtonsoft.Json;
+global using Newtonsoft.Json.Linq;
+
+
